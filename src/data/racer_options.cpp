@@ -1,6 +1,8 @@
 #include "racer_options.h"
+#include "../config/settings.h"
 
 std::vector<RacerOption> getAllRacerOptions() {
+    std::vector<RacerOption> options;
 
     // Track Athletes
     options.emplace_back("Usain Bolt", 27.8f, "img");
