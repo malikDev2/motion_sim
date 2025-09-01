@@ -55,7 +55,7 @@ std::vector<RacerOption> getAllRacerOptions() {
     options.emplace_back("City Bike", 15.0f, "img");
     options.emplace_back("Skateboard", 10.0f, "img");
     options.emplace_back("Scooter", 8.0f, "img");
-    options.emplace_back("Eletric Scooter", 20.0f, "img");
+    options.emplace_back("Electric Scooter", 20.0f, "img");
     options.emplace_back("Walking", 3.0f, "img");
     options.emplace_back("Jogging", 7.0f, "img");
     options.emplace_back("Running", 13.0f, "img");
